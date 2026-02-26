@@ -1,0 +1,8 @@
+git+https://github.com/aertslab/scenicplus.git@development
+snakemake
+scanpy
+anndata
+scipy
+pandas
+pyarrow
+pyyaml

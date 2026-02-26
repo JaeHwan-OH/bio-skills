@@ -1,0 +1,7 @@
+tf_expression_gate:
+  min_pct_expr: [0.01, 0.05, 0.10]
+  min_avg_expr: [0.05, 0.10, 0.20]
+
+# downstream placeholder (next step: scenicplus reweight / footprint)
+downstream:
+  dummy: [1]
